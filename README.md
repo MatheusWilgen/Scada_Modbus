@@ -46,6 +46,12 @@ Windows:
 SCM/Scripts/Activate
 ```
 
+Instalar as biliotecas:
+
+```
+pip install -r requirements.txt
+```
+
 Como usar
 =========
 
