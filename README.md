@@ -46,7 +46,7 @@ Windows:
 SCM/Scripts/Activate
 ```
 
-Instalar as biliotecas:
+Instalar as bibliotecas:
 
 ```
 pip install -r requirements.txt
